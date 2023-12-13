@@ -1,7 +1,7 @@
 import numpy as np 
 
-matrice = np.array([[-2,5,-1],[1, -1,2],[3,0,4]])
-matrice2 = np.array([[4],[12],[20]])
+matrice = np.array([[1,2,3],[4, 5,6],[7,8,9]])
+matrice2 = np.array([[10],[31],[52]])
 
 determinant = np.linalg.det(matrice)
 
